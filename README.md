@@ -2,6 +2,8 @@
 
 **A comprehensive simulation of Anti-Money Laundering (AML) and Know Your Customer (KYC) compliance workflows used in banking and financial institutions.**
 
+**Last Updated:** May 18, 2026
+
 ---
 
 ## Project Overview
