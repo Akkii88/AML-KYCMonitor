@@ -1,0 +1,4 @@
+alert_type,severity,count
+Activity Spike,Medium,30
+High Value Transaction,Medium,100
+High-Risk Customer,High,30

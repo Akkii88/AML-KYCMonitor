@@ -1,0 +1,44 @@
+AML Executive Summary Report
+Generated: 2026-05-18 01:57:25.467993
+
+=== OVERVIEW ===
+Total Alerts Generated: 160
+Total Investigations Completed: 160
+Escalated Cases: 37
+Enhanced Due Diligence Cases: 51
+
+=== KEY FINDINGS ===
+Alert Types:
+alert_type
+High Value Transaction    100
+High-Risk Customer         30
+Activity Spike             30
+
+Risk Distribution:
+risk_category
+Low       541
+Medium    335
+High      123
+
+Suspicious Activity Trends:
+- High-value transactions require source of funds verification
+- PEP customers under enhanced monitoring
+- Activity spikes indicate potential structuring behavior
+
+High-Risk Customer Exposure:
+- PEP customers: 28
+- Sanctions-flagged: 7
+- Pending KYC: 161
+
+Escalation Metrics:
+- Escalated investigations: 37
+- Recommendation breakdown:
+recommendation
+Enhanced Due Diligence Required    51
+Monitor Activity                   47
+False Positive                     36
+Escalate for Review                15
+Temporary Hold Recommended         11
+
+Geography Risk:
+- High-risk country customers: 34

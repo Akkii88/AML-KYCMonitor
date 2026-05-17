@@ -1,0 +1,22 @@
+Customer Cleaning Report
+Generated: 2026-05-18 01:40:36.588786
+
+Rows before cleaning: 1000
+Rows after cleaning: 999
+Rows removed: 1
+Duplicates removed: 1
+
+KYC Status Distribution:
+kyc_status
+Verified    690
+Pending     161
+Expired     102
+Rejected     46
+
+Risk Category Distribution:
+risk_category
+Low       541
+Medium    335
+High      123
+
+High-risk country customers: 34

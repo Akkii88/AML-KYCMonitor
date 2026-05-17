@@ -1,0 +1,5 @@
+risk_level,recommendation,count
+High,Escalate for Review,8
+High,Monitor Activity,11
+High,Temporary Hold Recommended,11
+Medium,Escalate for Review,7

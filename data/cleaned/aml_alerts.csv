@@ -1,0 +1,161 @@
+alert_id,customer_id,transaction_id,alert_type,severity,alert_reason,transaction_amount,transaction_timestamp,customer_risk_category,kyc_status
+ALT00001,CUST-221958,15,High Value Transaction,Medium,Transaction amount 229133.94 exceeds threshold,229133.94,Day 1,Medium,Verified
+ALT00002,CUST-744167,19,High Value Transaction,Medium,Transaction amount 215310.30 exceeds threshold,215310.3,Day 1,Medium,Verified
+ALT00003,CUST-621430,24,High Value Transaction,Medium,Transaction amount 311685.89 exceeds threshold,311685.89,Day 1,Low,Pending
+ALT00004,CUST-275203,82,High Value Transaction,Medium,Transaction amount 224606.64 exceeds threshold,224606.64,Day 1,Low,Verified
+ALT00005,CUST-164820,84,High Value Transaction,Medium,Transaction amount 379856.23 exceeds threshold,379856.23,Day 1,High,Pending
+ALT00006,CUST-876997,85,High Value Transaction,Medium,Transaction amount 1505626.01 exceeds threshold,1505626.01,Day 1,Low,Rejected
+ALT00007,CUST-314176,86,High Value Transaction,Medium,Transaction amount 554026.99 exceeds threshold,554026.99,Day 1,Low,Verified
+ALT00008,CUST-358795,88,High Value Transaction,Medium,Transaction amount 761507.39 exceeds threshold,761507.39,Day 1,Low,Verified
+ALT00009,CUST-970910,89,High Value Transaction,Medium,Transaction amount 1429051.47 exceeds threshold,1429051.47,Day 1,Low,Verified
+ALT00010,CUST-748143,90,High Value Transaction,Medium,Transaction amount 358831.92 exceeds threshold,358831.92,Day 1,Low,Verified
+ALT00011,CUST-691723,91,High Value Transaction,Medium,Transaction amount 367768.40 exceeds threshold,367768.4,Day 1,Medium,Verified
+ALT00012,CUST-373538,92,High Value Transaction,Medium,Transaction amount 209711.11 exceeds threshold,209711.11,Day 1,High,Verified
+ALT00013,CUST-356840,93,High Value Transaction,Medium,Transaction amount 583848.46 exceeds threshold,583848.46,Day 1,Low,Rejected
+ALT00014,CUST-339931,94,High Value Transaction,Medium,Transaction amount 1724887.05 exceeds threshold,1724887.05,Day 1,Medium,Verified
+ALT00015,CUST-517113,95,High Value Transaction,Medium,Transaction amount 710544.77 exceeds threshold,710544.77,Day 1,Low,Verified
+ALT00016,CUST-778843,96,High Value Transaction,Medium,Transaction amount 581294.26 exceeds threshold,581294.26,Day 1,Low,Verified
+ALT00017,CUST-996942,112,High Value Transaction,Medium,Transaction amount 212228.35 exceeds threshold,212228.35,Day 1,Low,Verified
+ALT00018,CUST-560337,117,High Value Transaction,Medium,Transaction amount 419801.40 exceeds threshold,419801.4,Day 1,Medium,Verified
+ALT00019,CUST-308261,118,High Value Transaction,Medium,Transaction amount 335416.51 exceeds threshold,335416.51,Day 1,Low,Verified
+ALT00020,CUST-371836,123,High Value Transaction,Medium,Transaction amount 330757.04 exceeds threshold,330757.04,Day 1,High,Pending
+ALT00021,CUST-296769,132,High Value Transaction,Medium,Transaction amount 679502.24 exceeds threshold,679502.24,Day 1,Low,Rejected
+ALT00022,CUST-635822,146,High Value Transaction,Medium,Transaction amount 467177.03 exceeds threshold,467177.03,Day 1,Low,Verified
+ALT00023,CUST-363160,155,High Value Transaction,Medium,Transaction amount 281339.92 exceeds threshold,281339.92,Day 1,High,Pending
+ALT00024,CUST-124300,161,High Value Transaction,Medium,Transaction amount 289645.52 exceeds threshold,289645.52,Day 1,Low,Pending
+ALT00025,CUST-374329,162,High Value Transaction,Medium,Transaction amount 267148.82 exceeds threshold,267148.82,Day 1,High,Verified
+ALT00026,CUST-616588,165,High Value Transaction,Medium,Transaction amount 344464.40 exceeds threshold,344464.4,Day 1,Low,Pending
+ALT00027,CUST-476896,177,High Value Transaction,Medium,Transaction amount 220691.42 exceeds threshold,220691.42,Day 1,Low,Verified
+ALT00028,CUST-555808,187,High Value Transaction,Medium,Transaction amount 296752.75 exceeds threshold,296752.75,Day 1,Low,Verified
+ALT00029,CUST-236330,189,High Value Transaction,Medium,Transaction amount 365510.05 exceeds threshold,365510.05,Day 1,Low,Pending
+ALT00030,CUST-686146,190,High Value Transaction,Medium,Transaction amount 202332.08 exceeds threshold,202332.08,Day 1,Medium,Verified
+ALT00031,CUST-388998,195,High Value Transaction,Medium,Transaction amount 210370.09 exceeds threshold,210370.09,Day 1,Medium,Rejected
+ALT00032,CUST-894824,198,High Value Transaction,Medium,Transaction amount 338767.10 exceeds threshold,338767.1,Day 1,Medium,Verified
+ALT00033,CUST-451279,200,High Value Transaction,Medium,Transaction amount 271002.70 exceeds threshold,271002.7,Day 1,Low,Verified
+ALT00034,CUST-747972,201,High Value Transaction,Medium,Transaction amount 323105.08 exceeds threshold,323105.08,Day 1,Medium,Verified
+ALT00035,CUST-124538,210,High Value Transaction,Medium,Transaction amount 503333.79 exceeds threshold,503333.79,Day 1,Medium,Verified
+ALT00036,CUST-239182,215,High Value Transaction,Medium,Transaction amount 252908.87 exceeds threshold,252908.87,Day 1,Medium,Pending
+ALT00037,CUST-723094,236,High Value Transaction,Medium,Transaction amount 480222.51 exceeds threshold,480222.51,Day 1,Medium,Verified
+ALT00038,CUST-219176,270,High Value Transaction,Medium,Transaction amount 280877.92 exceeds threshold,280877.92,Day 1,Medium,Verified
+ALT00039,CUST-647707,279,High Value Transaction,Medium,Transaction amount 369989.20 exceeds threshold,369989.2,Day 1,Low,Verified
+ALT00040,CUST-872838,280,High Value Transaction,Medium,Transaction amount 215338.28 exceeds threshold,215338.28,Day 1,Low,Verified
+ALT00041,CUST-974371,283,High Value Transaction,Medium,Transaction amount 262392.36 exceeds threshold,262392.36,Day 1,High,Verified
+ALT00042,CUST-298286,285,High Value Transaction,Medium,Transaction amount 202624.59 exceeds threshold,202624.59,Day 1,Medium,Verified
+ALT00043,CUST-424767,288,High Value Transaction,Medium,Transaction amount 498960.91 exceeds threshold,498960.91,Day 1,Medium,Verified
+ALT00044,CUST-515515,289,High Value Transaction,Medium,Transaction amount 691738.36 exceeds threshold,691738.36,Day 1,High,Pending
+ALT00045,CUST-542296,296,High Value Transaction,Medium,Transaction amount 302693.14 exceeds threshold,302693.14,Day 1,Low,Verified
+ALT00046,CUST-867595,308,High Value Transaction,Medium,Transaction amount 410201.89 exceeds threshold,410201.89,Day 1,Low,Pending
+ALT00047,CUST-252906,345,High Value Transaction,Medium,Transaction amount 522264.81 exceeds threshold,522264.81,Day 1,Low,Verified
+ALT00048,CUST-515192,355,High Value Transaction,Medium,Transaction amount 211075.91 exceeds threshold,211075.91,Day 1,Low,Verified
+ALT00049,CUST-752664,357,High Value Transaction,Medium,Transaction amount 473499.51 exceeds threshold,473499.51,Day 1,Medium,Verified
+ALT00050,CUST-227948,358,High Value Transaction,Medium,Transaction amount 1538200.39 exceeds threshold,1538200.39,Day 1,High,Verified
+ALT00051,CUST-121959,359,High Value Transaction,Medium,Transaction amount 2421578.09 exceeds threshold,2421578.09,Day 1,Medium,Verified
+ALT00052,CUST-328576,360,High Value Transaction,Medium,Transaction amount 1349670.68 exceeds threshold,1349670.68,Day 1,Low,Verified
+ALT00053,CUST-265838,361,High Value Transaction,Medium,Transaction amount 314403.14 exceeds threshold,314403.14,Day 1,Low,Verified
+ALT00054,CUST-693128,362,High Value Transaction,Medium,Transaction amount 1457213.54 exceeds threshold,1457213.54,Day 1,Low,Verified
+ALT00055,CUST-139353,364,High Value Transaction,Medium,Transaction amount 445038.71 exceeds threshold,445038.71,Day 1,High,Verified
+ALT00056,CUST-865313,365,High Value Transaction,Medium,Transaction amount 1123206.66 exceeds threshold,1123206.66,Day 1,Medium,Verified
+ALT00057,CUST-881239,372,High Value Transaction,Medium,Transaction amount 438437.09 exceeds threshold,438437.09,Day 1,Low,Verified
+ALT00058,CUST-737147,373,High Value Transaction,Medium,Transaction amount 928722.69 exceeds threshold,928722.69,Day 1,Low,Verified
+ALT00059,CUST-369536,374,High Value Transaction,Medium,Transaction amount 1478772.04 exceeds threshold,1478772.04,Day 1,Medium,Verified
+ALT00060,CUST-842452,375,High Value Transaction,Medium,Transaction amount 2545478.01 exceeds threshold,2545478.01,Day 1,Low,Rejected
+ALT00061,CUST-580671,376,High Value Transaction,Medium,Transaction amount 2061082.82 exceeds threshold,2061082.82,Day 1,Medium,Verified
+ALT00062,CUST-209751,377,High Value Transaction,Medium,Transaction amount 983479.66 exceeds threshold,983479.66,Day 1,Low,Pending
+ALT00063,CUST-561079,378,High Value Transaction,Medium,Transaction amount 635507.97 exceeds threshold,635507.97,Day 1,Low,Rejected
+ALT00064,CUST-713333,379,High Value Transaction,Medium,Transaction amount 848231.57 exceeds threshold,848231.57,Day 1,Medium,Verified
+ALT00065,CUST-518400,380,High Value Transaction,Medium,Transaction amount 739112.93 exceeds threshold,739112.93,Day 1,Low,Verified
+ALT00066,CUST-151663,381,High Value Transaction,Medium,Transaction amount 324397.94 exceeds threshold,324397.94,Day 1,Low,Verified
+ALT00067,CUST-418394,382,High Value Transaction,Medium,Transaction amount 982862.81 exceeds threshold,982862.81,Day 1,Low,Pending
+ALT00068,CUST-851102,383,High Value Transaction,Medium,Transaction amount 955855.00 exceeds threshold,955855.0,Day 1,Low,Verified
+ALT00069,CUST-314835,388,High Value Transaction,Medium,Transaction amount 373068.26 exceeds threshold,373068.26,Day 1,High,Verified
+ALT00070,CUST-843974,390,High Value Transaction,Medium,Transaction amount 228451.89 exceeds threshold,228451.89,Day 1,High,Verified
+ALT00071,CUST-108155,392,High Value Transaction,Medium,Transaction amount 232953.64 exceeds threshold,232953.64,Day 1,Medium,Verified
+ALT00072,CUST-908350,397,High Value Transaction,Medium,Transaction amount 349640.51 exceeds threshold,349640.51,Day 1,High,Verified
+ALT00073,CUST-408987,399,High Value Transaction,Medium,Transaction amount 380015.14 exceeds threshold,380015.14,Day 1,Low,Rejected
+ALT00074,CUST-247443,400,High Value Transaction,Medium,Transaction amount 418688.27 exceeds threshold,418688.27,Day 1,Medium,Verified
+ALT00075,CUST-465871,401,High Value Transaction,Medium,Transaction amount 311023.52 exceeds threshold,311023.52,Day 1,High,Verified
+ALT00076,CUST-391999,403,High Value Transaction,Medium,Transaction amount 228710.05 exceeds threshold,228710.05,Day 1,Medium,Verified
+ALT00077,CUST-480002,404,High Value Transaction,Medium,Transaction amount 220431.09 exceeds threshold,220431.09,Day 1,Medium,Pending
+ALT00078,CUST-628787,406,High Value Transaction,Medium,Transaction amount 231881.50 exceeds threshold,231881.5,Day 1,High,Pending
+ALT00079,CUST-898615,411,High Value Transaction,Medium,Transaction amount 764772.98 exceeds threshold,764772.98,Day 1,High,Rejected
+ALT00080,CUST-891971,419,High Value Transaction,Medium,Transaction amount 257348.03 exceeds threshold,257348.03,Day 1,High,Verified
+ALT00081,CUST-803714,420,High Value Transaction,Medium,Transaction amount 201073.81 exceeds threshold,201073.81,Day 1,Low,Rejected
+ALT00082,CUST-233272,422,High Value Transaction,Medium,Transaction amount 334234.39 exceeds threshold,334234.39,Day 1,Low,Verified
+ALT00083,CUST-743409,423,High Value Transaction,Medium,Transaction amount 227335.16 exceeds threshold,227335.16,Day 1,Low,Verified
+ALT00084,CUST-412252,429,High Value Transaction,Medium,Transaction amount 217615.09 exceeds threshold,217615.09,Day 1,Low,Pending
+ALT00085,CUST-909760,430,High Value Transaction,Medium,Transaction amount 355294.50 exceeds threshold,355294.5,Day 1,Low,Verified
+ALT00086,CUST-158871,432,High Value Transaction,Medium,Transaction amount 349505.89 exceeds threshold,349505.89,Day 1,Medium,Pending
+ALT00087,CUST-710704,433,High Value Transaction,Medium,Transaction amount 285185.34 exceeds threshold,285185.34,Day 1,Low,Verified
+ALT00088,CUST-207450,435,High Value Transaction,Medium,Transaction amount 214851.41 exceeds threshold,214851.41,Day 1,Low,Verified
+ALT00089,CUST-500109,442,High Value Transaction,Medium,Transaction amount 313373.56 exceeds threshold,313373.56,Day 1,Medium,Rejected
+ALT00090,CUST-829650,460,High Value Transaction,Medium,Transaction amount 223555.14 exceeds threshold,223555.14,Day 1,High,Verified
+ALT00091,CUST-673665,463,High Value Transaction,Medium,Transaction amount 222711.47 exceeds threshold,222711.47,Day 1,Low,Verified
+ALT00092,CUST-469599,465,High Value Transaction,Medium,Transaction amount 628719.07 exceeds threshold,628719.07,Day 1,High,Verified
+ALT00093,CUST-829903,469,High Value Transaction,Medium,Transaction amount 248196.92 exceeds threshold,248196.92,Day 1,Low,Verified
+ALT00094,CUST-996048,471,High Value Transaction,Medium,Transaction amount 403418.39 exceeds threshold,403418.39,Day 1,Low,Rejected
+ALT00095,CUST-405628,472,High Value Transaction,Medium,Transaction amount 235564.81 exceeds threshold,235564.81,Day 1,Low,Pending
+ALT00096,CUST-787995,474,High Value Transaction,Medium,Transaction amount 345347.70 exceeds threshold,345347.7,Day 1,Low,Rejected
+ALT00097,CUST-983184,475,High Value Transaction,Medium,Transaction amount 355500.25 exceeds threshold,355500.25,Day 1,Medium,Verified
+ALT00098,CUST-559451,478,High Value Transaction,Medium,Transaction amount 259753.27 exceeds threshold,259753.27,Day 1,High,Verified
+ALT00099,CUST-477812,479,High Value Transaction,Medium,Transaction amount 234094.24 exceeds threshold,234094.24,Day 1,Low,Verified
+ALT00100,CUST-840674,480,High Value Transaction,Medium,Transaction amount 273305.73 exceeds threshold,273305.73,Day 1,Low,Verified
+ALT00101,CUST-660086,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,93679.32264191732,Day 570,Low,Rejected
+ALT00102,CUST-881177,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,93071.66664627235,Day 686,High,Verified
+ALT00103,CUST-922157,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,10620.472883306085,Day 288,Low,Rejected
+ALT00104,CUST-918011,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,67443.208165581,Day 663,High,Expired
+ALT00105,CUST-888539,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,14868.31750841588,Day 155,High,Verified
+ALT00106,CUST-402020,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,30233.768253474937,Day 104,Low,Rejected
+ALT00107,CUST-284171,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,70004.55835853153,Day 246,Low,Rejected
+ALT00108,CUST-776149,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,36589.62397075576,Day 477,Low,Rejected
+ALT00109,CUST-926952,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,30354.50422113205,Day 538,Low,Rejected
+ALT00110,CUST-874683,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,81201.2260732389,Day 408,Low,Rejected
+ALT00111,CUST-899649,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,91410.81470309065,Day 506,Medium,Pending
+ALT00112,CUST-139434,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,1513.3014146246908,Day 36,High,Verified
+ALT00113,CUST-796643,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,80031.22271771074,Day 321,Medium,Rejected
+ALT00114,CUST-672536,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,8023.150782992839,Day 400,High,Verified
+ALT00115,CUST-838237,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,6026.084572900297,Day 471,High,Verified
+ALT00116,CUST-224582,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,3734.060415496766,Day 354,Low,Rejected
+ALT00117,CUST-513697,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,10304.212044246031,Day 727,Low,Rejected
+ALT00118,CUST-976822,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,67530.58739422474,Day 51,Low,Rejected
+ALT00119,CUST-769737,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,47094.20379511356,Day 575,Medium,Rejected
+ALT00120,CUST-706403,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,98202.24794274257,Day 150,Medium,Verified
+ALT00121,CUST-449138,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,59492.492796332066,Day 342,High,Rejected
+ALT00122,CUST-484682,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,25774.88469107054,Day 682,Low,Rejected
+ALT00123,CUST-109738,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,82437.45550530616,Day 54,Low,Rejected
+ALT00124,CUST-329659,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,54171.16029246889,Day 613,High,Verified
+ALT00125,CUST-992083,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,52702.082745425636,Day 53,Low,Rejected
+ALT00126,CUST-338564,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,27882.748666154446,Day 620,Medium,Rejected
+ALT00127,CUST-322182,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,62666.157106081024,Day 196,High,Rejected
+ALT00128,CUST-148759,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,84360.28442618616,Day 350,Medium,Rejected
+ALT00129,CUST-899407,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,54522.87703940055,Day 656,Low,Rejected
+ALT00130,CUST-148693,MULTIPLE,High-Risk Customer,High,PEP/Sanctions/Rejected KYC,97609.35586679092,Day 636,Low,Rejected
+ALT00131,CUST-501113,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,25470.81,Day 9,High,Pending
+ALT00132,CUST-749558,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,477002.22,Day 9,High,Pending
+ALT00133,CUST-864831,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,290998.29,Day 9,Medium,Verified
+ALT00134,CUST-191064,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,191935.9,Day 9,Low,Verified
+ALT00135,CUST-344157,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,28805.23,Day 9,Low,Verified
+ALT00136,CUST-982767,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,762.29,Day 9,Medium,Verified
+ALT00137,CUST-271457,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,3908.62,Day 8,Low,Verified
+ALT00138,CUST-440742,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,738.07,Day 7,Medium,Verified
+ALT00139,CUST-140364,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,1711.67,Day 8,Medium,Verified
+ALT00140,CUST-601501,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,8404.6,Day 10,Medium,Verified
+ALT00141,CUST-244329,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,3902982.04,Day 9,Low,Verified
+ALT00142,CUST-396426,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,43389.81,Day 8,Medium,Verified
+ALT00143,CUST-679156,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,354257.12,Day 10,Low,Verified
+ALT00144,CUST-504667,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,37699.34,Day 6,Medium,Verified
+ALT00145,CUST-458611,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,3150.93,Day 10,High,Pending
+ALT00146,CUST-533101,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,249597.71,Day 8,Low,Verified
+ALT00147,CUST-908870,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,142236.29,Day 2,Low,Verified
+ALT00148,CUST-908246,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,1399.07,Day 7,Low,Verified
+ALT00149,CUST-847606,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,3677.94,Day 8,Low,Verified
+ALT00150,CUST-543145,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,338035.58,Day 9,High,Pending
+ALT00151,CUST-512847,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,45001.62,Day 9,Low,Verified
+ALT00152,CUST-273718,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,6655.19,Day 9,Low,Pending
+ALT00153,CUST-485944,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,9619.26,Day 9,Low,Verified
+ALT00154,CUST-455553,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,118490.04,Day 8,Low,Verified
+ALT00155,CUST-363340,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,5427.54,Day 8,Low,Verified
+ALT00156,CUST-947735,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,648906.92,Day 10,Medium,Verified
+ALT00157,CUST-786820,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,131850.87,Day 7,Low,Verified
+ALT00158,CUST-464885,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,2376.34,Day 5,Medium,Pending
+ALT00159,CUST-115970,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,66796.09,Day 10,High,Verified
+ALT00160,CUST-978764,MULTIPLE,Activity Spike,Medium,Unusual transaction frequency,13823.54,Day 8,Low,Verified

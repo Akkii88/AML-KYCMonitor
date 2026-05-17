@@ -1,0 +1,5 @@
+venv/
+.DS_Store
+__pycache__/
+data/raw/PS_20174392719_1491204439457_log.csv
+data/cleaned/transactions_cleaned.csv

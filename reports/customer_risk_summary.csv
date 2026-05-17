@@ -1,0 +1,4 @@
+risk_category,customer_count,pep_customers,sanctions_customers,pending_kyc
+High,123,19,7,87
+Low,541,0,0,0
+Medium,335,9,0,74

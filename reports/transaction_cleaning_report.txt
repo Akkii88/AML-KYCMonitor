@@ -1,0 +1,39 @@
+Transaction Cleaning Report
+Generated: 2026-05-18 01:40:28.540421
+
+Rows before cleaning: 6362620
+Rows after cleaning: 6362620
+Rows removed: 0
+Duplicates removed: 0
+
+Data types:
+step                           int64
+type                          object
+amount                       float64
+nameOrig                      object
+oldbalanceOrg                float64
+newbalanceOrig               float64
+nameDest                      object
+oldbalanceDest               float64
+newbalanceDest               float64
+isFraud                        int64
+isFlaggedFraud                 int64
+transaction_hour               int64
+transaction_day                int64
+is_high_value_transaction      int64
+
+Missing values after cleaning:
+step                         0
+type                         0
+amount                       0
+nameOrig                     0
+oldbalanceOrg                0
+newbalanceOrig               0
+nameDest                     0
+oldbalanceDest               0
+newbalanceDest               0
+isFraud                      0
+isFlaggedFraud               0
+transaction_hour             0
+transaction_day              0
+is_high_value_transaction    0

@@ -1,0 +1,161 @@
+case_id,alert_id,customer_id,investigation_findings,recommendation,analyst_decision,investigation_status,risk_level,escalation_required
+CASE1000,ALT00001,CUST-221958,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1001,ALT00002,CUST-744167,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1002,ALT00003,CUST-621430,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1003,ALT00004,CUST-275203,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1004,ALT00005,CUST-164820,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1005,ALT00006,CUST-876997,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1006,ALT00007,CUST-314176,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1007,ALT00008,CUST-358795,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1008,ALT00009,CUST-970910,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1009,ALT00010,CUST-748143,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1010,ALT00011,CUST-691723,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1011,ALT00012,CUST-373538,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1012,ALT00013,CUST-356840,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1013,ALT00014,CUST-339931,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1014,ALT00015,CUST-517113,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1015,ALT00016,CUST-778843,Large transfer may require source of funds verification,False Positive,Monitor,Closed,Medium,No
+CASE1016,ALT00017,CUST-996942,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1017,ALT00018,CUST-560337,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1018,ALT00019,CUST-308261,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1019,ALT00020,CUST-371836,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1020,ALT00021,CUST-296769,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1021,ALT00022,CUST-635822,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1022,ALT00023,CUST-363160,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1023,ALT00024,CUST-124300,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1024,ALT00025,CUST-374329,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1025,ALT00026,CUST-616588,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1026,ALT00027,CUST-476896,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1027,ALT00028,CUST-555808,Large transfer may require source of funds verification,False Positive,Monitor,Closed,Medium,No
+CASE1028,ALT00029,CUST-236330,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1029,ALT00030,CUST-686146,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1030,ALT00031,CUST-388998,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1031,ALT00032,CUST-894824,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1032,ALT00033,CUST-451279,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1033,ALT00034,CUST-747972,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1034,ALT00035,CUST-124538,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1035,ALT00036,CUST-239182,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1036,ALT00037,CUST-723094,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1037,ALT00038,CUST-219176,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1038,ALT00039,CUST-647707,Large transfer may require source of funds verification,False Positive,Monitor,Closed,Medium,No
+CASE1039,ALT00040,CUST-872838,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1040,ALT00041,CUST-974371,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1041,ALT00042,CUST-298286,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1042,ALT00043,CUST-424767,Transaction amount inconsistent with customer income profile,Monitor Activity,Monitor,Closed,Medium,No
+CASE1043,ALT00044,CUST-515515,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1044,ALT00045,CUST-542296,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1045,ALT00046,CUST-867595,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1046,ALT00047,CUST-252906,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1047,ALT00048,CUST-515192,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1048,ALT00049,CUST-752664,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1049,ALT00050,CUST-227948,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1050,ALT00051,CUST-121959,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1051,ALT00052,CUST-328576,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1052,ALT00053,CUST-265838,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1053,ALT00054,CUST-693128,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1054,ALT00055,CUST-139353,Transaction amount inconsistent with customer income profile,Monitor Activity,Monitor,Closed,Medium,No
+CASE1055,ALT00056,CUST-865313,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1056,ALT00057,CUST-881239,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1057,ALT00058,CUST-737147,Transaction amount inconsistent with customer income profile,Monitor Activity,Monitor,Closed,Medium,No
+CASE1058,ALT00059,CUST-369536,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1059,ALT00060,CUST-842452,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1060,ALT00061,CUST-580671,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1061,ALT00062,CUST-209751,Large transfer may require source of funds verification,False Positive,Monitor,Closed,Medium,No
+CASE1062,ALT00063,CUST-561079,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1063,ALT00064,CUST-713333,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1064,ALT00065,CUST-518400,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1065,ALT00066,CUST-151663,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1066,ALT00067,CUST-418394,Transaction amount inconsistent with customer income profile,Monitor Activity,Monitor,Closed,Medium,No
+CASE1067,ALT00068,CUST-851102,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1068,ALT00069,CUST-314835,Large transfer may require source of funds verification,False Positive,Monitor,Closed,Medium,No
+CASE1069,ALT00070,CUST-843974,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1070,ALT00071,CUST-108155,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1071,ALT00072,CUST-908350,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1072,ALT00073,CUST-408987,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1073,ALT00074,CUST-247443,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1074,ALT00075,CUST-465871,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1075,ALT00076,CUST-391999,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1076,ALT00077,CUST-480002,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1077,ALT00078,CUST-628787,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1078,ALT00079,CUST-898615,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1079,ALT00080,CUST-891971,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1080,ALT00081,CUST-803714,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1081,ALT00082,CUST-233272,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1082,ALT00083,CUST-743409,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1083,ALT00084,CUST-412252,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1084,ALT00085,CUST-909760,Transaction amount inconsistent with customer income profile,Monitor Activity,Monitor,Closed,Medium,No
+CASE1085,ALT00086,CUST-158871,Large transfer may require source of funds verification,Monitor Activity,Monitor,Closed,Medium,No
+CASE1086,ALT00087,CUST-710704,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1087,ALT00088,CUST-207450,No historical precedent for transaction size,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1088,ALT00089,CUST-500109,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1089,ALT00090,CUST-829650,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1090,ALT00091,CUST-673665,Transaction amount inconsistent with customer income profile,False Positive,Monitor,Closed,Medium,No
+CASE1091,ALT00092,CUST-469599,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1092,ALT00093,CUST-829903,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1093,ALT00094,CUST-996048,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1094,ALT00095,CUST-405628,Large transfer may require source of funds verification,False Positive,Monitor,Closed,Medium,No
+CASE1095,ALT00096,CUST-787995,Transaction amount inconsistent with customer income profile,Monitor Activity,Monitor,Closed,Medium,No
+CASE1096,ALT00097,CUST-983184,Transaction amount inconsistent with customer income profile,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1097,ALT00098,CUST-559451,No historical precedent for transaction size,Monitor Activity,Monitor,Closed,Medium,No
+CASE1098,ALT00099,CUST-477812,No historical precedent for transaction size,False Positive,Monitor,Closed,Medium,No
+CASE1099,ALT00100,CUST-840674,Large transfer may require source of funds verification,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1100,ALT00101,CUST-660086,PEP customer requires enhanced monitoring per FATF guidelines,Monitor Activity,Review Required,Open,High,Yes
+CASE1101,ALT00102,CUST-881177,Sanctions flag requires OFAC verification,Monitor Activity,Enhanced Due Diligence,Open,High,Yes
+CASE1102,ALT00103,CUST-922157,Sanctions flag requires OFAC verification,Temporary Hold Recommended,Review Required,Open,High,Yes
+CASE1103,ALT00104,CUST-918011,PEP customer requires enhanced monitoring per FATF guidelines,Escalate for Review,Review Required,Open,High,Yes
+CASE1104,ALT00105,CUST-888539,Rejected KYC customer conducting suspicious activity,Escalate for Review,Escalate to Senior Analyst,Open,High,Yes
+CASE1105,ALT00106,CUST-402020,Sanctions flag requires OFAC verification,Monitor Activity,Enhanced Due Diligence,Open,High,Yes
+CASE1106,ALT00107,CUST-284171,PEP customer requires enhanced monitoring per FATF guidelines,Escalate for Review,Review Required,Open,High,Yes
+CASE1107,ALT00108,CUST-776149,Rejected KYC customer conducting suspicious activity,Monitor Activity,Escalate to Senior Analyst,Open,High,Yes
+CASE1108,ALT00109,CUST-926952,PEP customer requires enhanced monitoring per FATF guidelines,Monitor Activity,Escalate to Senior Analyst,Open,High,Yes
+CASE1109,ALT00110,CUST-874683,Rejected KYC customer conducting suspicious activity,Temporary Hold Recommended,Enhanced Due Diligence,Open,High,Yes
+CASE1110,ALT00111,CUST-899649,Rejected KYC customer conducting suspicious activity,Escalate for Review,Enhanced Due Diligence,Open,High,Yes
+CASE1111,ALT00112,CUST-139434,Sanctions flag requires OFAC verification,Escalate for Review,Escalate to Senior Analyst,Open,High,Yes
+CASE1112,ALT00113,CUST-796643,Sanctions flag requires OFAC verification,Monitor Activity,Enhanced Due Diligence,Open,High,Yes
+CASE1113,ALT00114,CUST-672536,Rejected KYC customer conducting suspicious activity,Escalate for Review,Review Required,Open,High,Yes
+CASE1114,ALT00115,CUST-838237,Rejected KYC customer conducting suspicious activity,Monitor Activity,Review Required,Open,High,Yes
+CASE1115,ALT00116,CUST-224582,Rejected KYC customer conducting suspicious activity,Temporary Hold Recommended,Enhanced Due Diligence,Open,High,Yes
+CASE1116,ALT00117,CUST-513697,Sanctions flag requires OFAC verification,Temporary Hold Recommended,Enhanced Due Diligence,Open,High,Yes
+CASE1117,ALT00118,CUST-976822,Rejected KYC customer conducting suspicious activity,Temporary Hold Recommended,Review Required,Open,High,Yes
+CASE1118,ALT00119,CUST-769737,PEP customer requires enhanced monitoring per FATF guidelines,Temporary Hold Recommended,Escalate to Senior Analyst,Open,High,Yes
+CASE1119,ALT00120,CUST-706403,PEP customer requires enhanced monitoring per FATF guidelines,Temporary Hold Recommended,Review Required,Open,High,Yes
+CASE1120,ALT00121,CUST-449138,PEP customer requires enhanced monitoring per FATF guidelines,Monitor Activity,Enhanced Due Diligence,Open,High,Yes
+CASE1121,ALT00122,CUST-484682,Rejected KYC customer conducting suspicious activity,Monitor Activity,Escalate to Senior Analyst,Open,High,Yes
+CASE1122,ALT00123,CUST-109738,Rejected KYC customer conducting suspicious activity,Temporary Hold Recommended,Escalate to Senior Analyst,Open,High,Yes
+CASE1123,ALT00124,CUST-329659,PEP customer requires enhanced monitoring per FATF guidelines,Escalate for Review,Escalate to Senior Analyst,Open,High,Yes
+CASE1124,ALT00125,CUST-992083,PEP customer requires enhanced monitoring per FATF guidelines,Monitor Activity,Review Required,Open,High,Yes
+CASE1125,ALT00126,CUST-338564,PEP customer requires enhanced monitoring per FATF guidelines,Temporary Hold Recommended,Enhanced Due Diligence,Open,High,Yes
+CASE1126,ALT00127,CUST-322182,PEP customer requires enhanced monitoring per FATF guidelines,Escalate for Review,Enhanced Due Diligence,Open,High,Yes
+CASE1127,ALT00128,CUST-148759,Rejected KYC customer conducting suspicious activity,Temporary Hold Recommended,Escalate to Senior Analyst,Open,High,Yes
+CASE1128,ALT00129,CUST-899407,PEP customer requires enhanced monitoring per FATF guidelines,Temporary Hold Recommended,Review Required,Open,High,Yes
+CASE1129,ALT00130,CUST-148693,Sanctions flag requires OFAC verification,Monitor Activity,Enhanced Due Diligence,Open,High,Yes
+CASE1130,ALT00131,CUST-501113,Unusual frequency compared to customer baseline,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1131,ALT00132,CUST-749558,Multiple transactions in short timeframe raises concern,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1132,ALT00133,CUST-864831,Rapid transaction pattern may indicate structuring behavior,Escalate for Review,Escalate to Senior Analyst,Open,Medium,Yes
+CASE1133,ALT00134,CUST-191064,Unusual frequency compared to customer baseline,Escalate for Review,Escalate to Senior Analyst,Open,Medium,Yes
+CASE1134,ALT00135,CUST-344157,Multiple transactions in short timeframe raises concern,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1135,ALT00136,CUST-982767,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1136,ALT00137,CUST-271457,Rapid transaction pattern may indicate structuring behavior,Escalate for Review,Review Required,Open,Medium,Yes
+CASE1137,ALT00138,CUST-440742,Multiple transactions in short timeframe raises concern,Monitor Activity,Monitor,Closed,Medium,No
+CASE1138,ALT00139,CUST-140364,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1139,ALT00140,CUST-601501,Multiple transactions in short timeframe raises concern,Monitor Activity,Monitor,Closed,Medium,No
+CASE1140,ALT00141,CUST-244329,Unusual frequency compared to customer baseline,Monitor Activity,Monitor,Closed,Medium,No
+CASE1141,ALT00142,CUST-396426,Unusual frequency compared to customer baseline,Escalate for Review,Escalate to Senior Analyst,Open,Medium,Yes
+CASE1142,ALT00143,CUST-679156,Unusual frequency compared to customer baseline,Escalate for Review,Review Required,Open,Medium,Yes
+CASE1143,ALT00144,CUST-504667,Multiple transactions in short timeframe raises concern,Escalate for Review,Enhanced Due Diligence,Open,Medium,Yes
+CASE1144,ALT00145,CUST-458611,Multiple transactions in short timeframe raises concern,Escalate for Review,Review Required,Open,Medium,Yes
+CASE1145,ALT00146,CUST-533101,Unusual frequency compared to customer baseline,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1146,ALT00147,CUST-908870,Multiple transactions in short timeframe raises concern,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1147,ALT00148,CUST-908246,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1148,ALT00149,CUST-847606,Multiple transactions in short timeframe raises concern,Monitor Activity,Monitor,Closed,Medium,No
+CASE1149,ALT00150,CUST-543145,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1150,ALT00151,CUST-512847,Unusual frequency compared to customer baseline,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1151,ALT00152,CUST-273718,Unusual frequency compared to customer baseline,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1152,ALT00153,CUST-485944,Unusual frequency compared to customer baseline,Monitor Activity,Monitor,Closed,Medium,No
+CASE1153,ALT00154,CUST-455553,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1154,ALT00155,CUST-363340,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1155,ALT00156,CUST-947735,Unusual frequency compared to customer baseline,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1156,ALT00157,CUST-786820,Multiple transactions in short timeframe raises concern,Monitor Activity,Monitor,Closed,Medium,No
+CASE1157,ALT00158,CUST-464885,Rapid transaction pattern may indicate structuring behavior,Monitor Activity,Monitor,Closed,Medium,No
+CASE1158,ALT00159,CUST-115970,Rapid transaction pattern may indicate structuring behavior,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
+CASE1159,ALT00160,CUST-978764,Multiple transactions in short timeframe raises concern,Enhanced Due Diligence Required,Monitor,Closed,Medium,No
