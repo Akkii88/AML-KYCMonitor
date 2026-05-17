@@ -19,12 +19,12 @@ The project replicates real-world processes including:
 
 ### Project Screenshots
 
-![Streamlit Dashboard 1](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.16%20AM.png)
-![Streamlit Dashboard 2](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.28%20AM.png)
-![Excel Dashboard 1](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.18%20AM.png)
-![Excel Dashboard 2](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.43%20AM.png)
-![Investigation Tracker](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.44.13%20AM.png)
-![High-Risk Monitoring](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.44.38%20AM.png)
+![Streamlit Dashboard 1](./Dashboards/Streamlit/01.png)
+![Streamlit Dashboard 2](./Dashboards/Streamlit/02.png)
+![Excel Dashboard 1](./Dashboards/Excel/01.png)
+![Excel Dashboard 2](./Dashboards/Excel/02.png)
+![Investigation Tracker](./Dashboards/Excel/07.png)
+![High-Risk Monitoring](./Dashboards/Excel/08.png)
 
 ---
 
@@ -240,21 +240,21 @@ This project replicates core responsibilities performed daily by AML and KYC ana
 
 | View | Description | Screenshot |
 |------|-------------|------------|
-| Executive Overview | KPI cards and high-level metrics | ![Streamlit 1](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.16%20AM.png) |
-| AML Monitoring | Alert analytics and activity patterns | ![Streamlit 2](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.28%20AM.png) |
-| KYC Risk Analysis | Customer risk distribution and profiles | ![Streamlit 3](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.38%20AM.png) |
-| Investigation Metrics | Escalation and outcome tracking | ![Streamlit 4](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.39.05%20AM.png) |
+| Executive Overview | KPI cards and high-level metrics | ![Streamlit 1](./Dashboards/Streamlit/01.png) |
+| AML Monitoring | Alert analytics and activity patterns | ![Streamlit 2](./Dashboards/Streamlit/02.png) |
+| KYC Risk Analysis | Customer risk distribution and profiles | ![Streamlit 3](./Dashboards/Streamlit/03.png) |
+| Investigation Metrics | Escalation and outcome tracking | ![Streamlit 4](./Dashboards/Streamlit/04.png) |
 
 ### Excel Executive Dashboard & MIS Reporting
 
 | View | Description | Screenshot |
 |------|-------------|------------|
-| Main Dashboard | KPI summary with professional charts | ![Excel 1](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.18%20AM.png) |
-| Alert Analysis | Severity and type breakdown | ![Excel 2](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.43%20AM.png) |
-| KYC & Escalations | Status distribution and summary | ![Excel 3](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.42.19%20AM.png) |
-| Geography Risk | High-risk country activity | ![Excel 4](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.42.27%20AM.png) |
-| Investigation Tracker | Case management and findings | ![Excel 5](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.44.13%20AM.png) |
-| High-Risk Monitoring | PEP and sanctions customer view | ![Excel 6](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.44.38%20AM.png) |
+| Main Dashboard | KPI summary with professional charts | ![Excel 1](./Dashboards/Excel/01.png) |
+| Alert Analysis | Severity and type breakdown | ![Excel 2](./Dashboards/Excel/02.png) |
+| KYC & Escalations | Status distribution and summary | ![Excel 3](./Dashboards/Excel/03.png) |
+| Geography Risk | High-risk country activity | ![Excel 4](./Dashboards/Excel/04.png) |
+| Investigation Tracker | Case management and findings | ![Excel 5](./Dashboards/Excel/07.png) |
+| High-Risk Monitoring | PEP and sanctions customer view | ![Excel 6](./Dashboards/Excel/08.png) |
 
 ---
 
