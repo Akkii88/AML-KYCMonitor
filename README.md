@@ -17,13 +17,14 @@ The project replicates real-world processes including:
 - Escalation management and enhanced due diligence
 - Compliance reporting and executive dashboards
 
-### Dashboard Preview
+### Project Screenshots
 
-**Streamlit AML Analyst Dashboard**
-![Streamlit Dashboard](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.16%20AM.png)
-
-**Excel Executive MIS Dashboard**
-![Excel Dashboard](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.18%20AM.png)
+![Streamlit Dashboard 1](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.16%20AM.png)
+![Streamlit Dashboard 2](./Dashboards/Streamlit/Screenshot%202026-05-18%20at%203.38.28%20AM.png)
+![Excel Dashboard 1](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.18%20AM.png)
+![Excel Dashboard 2](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.41.43%20AM.png)
+![Investigation Tracker](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.44.13%20AM.png)
+![High-Risk Monitoring](./Dashboards/Excel/Screenshot%202026-05-18%20at%203.44.38%20AM.png)
 
 ---
 
