@@ -229,21 +229,39 @@ This project replicates core responsibilities performed daily by AML and KYC ana
 
 ### Streamlit AML Analyst Dashboard
 
-![Streamlit Dashboard](reports/visuals/streamlit_dashboard.png)
+**Executive Overview & KPI Cards**
+![Streamlit Dashboard 1](./Dashboards/Streamlit/Screenshot 2026-05-18 at 3.38.16 AM.png)
 
-*Executive KPI overview with alert monitoring, KYC risk analysis, and investigation analytics*
+**AML Monitoring & Alert Analytics**
+![Streamlit Dashboard 2](./Dashboards/Streamlit/Screenshot 2026-05-18 at 3.38.28 AM.png)
 
-### Excel Executive Dashboard
+**KYC Risk Analysis View**
+![Streamlit Dashboard 3](./Dashboards/Streamlit/Screenshot 2026-05-18 at 3.38.38 AM.png)
 
-![Excel Dashboard](reports/visuals/excel_dashboard.png)
+**Investigation & Escalation Metrics**
+![Streamlit Dashboard 4](./Dashboards/Streamlit/Screenshot 2026-05-18 at 3.39.05 AM.png)
 
-*Professional MIS dashboard with KPI cards, doughnut chart (severity), horizontal bar charts (alert types, geography), and column charts (KYC, escalations)*
+---
 
-### Investigation Tracker
+### Excel Executive Dashboard & MIS Reporting
 
-![Investigation Tracker](reports/visuals/investigation_tracker.png)
+**Main Executive Dashboard with KPI Cards and Charts**
+![Excel Dashboard 1](./Dashboards/Excel/Screenshot 2026-05-18 at 3.41.18 AM.png)
 
-*Case management workbook with alert queue, findings documentation, and escalation recommendations*
+**Alerts by Severity & Type Analysis**
+![Excel Dashboard 2](./Dashboards/Excel/Screenshot 2026-05-18 at 3.41.43 AM.png)
+
+**KYC Status & Escalation Summary**
+![Excel Dashboard 3](./Dashboards/Excel/Screenshot 2026-05-18 at 3.42.19 AM.png)
+
+**High-Risk Geography Activity**
+![Excel Dashboard 4](./Dashboards/Excel/Screenshot 2026-05-18 at 3.42.27 AM.png)
+
+**Investigation Tracker & Case Management**
+![Excel Dashboard 5](./Dashboards/Excel/Screenshot 2026-05-18 at 3.44.13 AM.png)
+
+**High-Risk Customer Monitoring**
+![Excel Dashboard 6](./Dashboards/Excel/Screenshot 2026-05-18 at 3.44.38 AM.png)
 
 ---
 
