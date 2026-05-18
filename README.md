@@ -252,31 +252,6 @@ This project replicates core responsibilities performed daily by AML and KYC ana
 - 23% of alerts (37/160) required escalation, reflecting appropriate risk triage sensitivity
 - Pending KYC exposure (161 customers) represents a material compliance gap requiring immediate remediation
 
----
-
-## Screenshots
-
-### Streamlit AML Analyst Dashboard
-
-| View | Description | Screenshot |
-|------|-------------|------------|
-| Executive Overview | KPI cards and high-level metrics | ![Streamlit 1](./Dashboards/Streamlit/01.png) |
-| AML Monitoring | Alert analytics and activity patterns | ![Streamlit 2](./Dashboards/Streamlit/02.png) |
-| KYC Risk Analysis | Customer risk distribution and profiles | ![Streamlit 3](./Dashboards/Streamlit/03.png) |
-| Investigation Metrics | Escalation and outcome tracking | ![Streamlit 4](./Dashboards/Streamlit/04.png) |
-
-### Excel Executive Dashboard & MIS Reporting
-
-| View | Description | Screenshot |
-|------|-------------|------------|
-| Main Dashboard | KPI summary with professional charts | ![Excel 1](./Dashboards/Excel/01.png) |
-| Alert Analysis | Severity and type breakdown | ![Excel 2](./Dashboards/Excel/02.png) |
-| KYC & Escalations | Status distribution and summary | ![Excel 3](./Dashboards/Excel/03.png) |
-| Geography Risk | High-risk country activity | ![Excel 4](./Dashboards/Excel/04.png) |
-| Investigation Tracker | Case management and findings | ![Excel 5](./Dashboards/Excel/07.png) |
-| High-Risk Monitoring | PEP and sanctions customer view | ![Excel 6](./Dashboards/Excel/08.png) |
-
----
 
 ## Project Folder Structure
 
